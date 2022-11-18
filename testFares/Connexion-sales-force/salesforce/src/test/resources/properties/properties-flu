@@ -1,0 +1,4 @@
+TestDriverPath=C:/Salesforcetestauto/testFares/Connexion-sales-force/salesforce/target/test-classes/driver/chromedriver.exe
+Web_Portal_Link=https://empathetic-koala-9d5ozw-dev-ed.trailblaze.my.salesforce.com/
+user_name=takwa.touzni@empathetic-koala-9d5ozw.com
+user_pass=Talan2022**
